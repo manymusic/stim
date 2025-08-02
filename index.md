@@ -3,7 +3,7 @@ title: "0. Home"
 layout: home
 ---
 
-# ManyMusic-Stim🎵
+# ManyMusic-Stim
 
 We[^1] presents the `ManyMusic-Stim` dataset, an open-access music audio dataset designed for human experiments on musical emotions
 
