@@ -1,5 +1,5 @@
 ---
-title: "2. Human validation experiments"
+title: "2. Human validation"
 layout: home
 ---
 # More plots 

@@ -1,5 +1,5 @@
 ---
-title: "1. Music selection process"
+title: "1. Music curation"
 layout: home
 ---
 # Shows some plots here
