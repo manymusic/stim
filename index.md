@@ -28,7 +28,7 @@ The dataset includes:
 
 The audio files are encoded at 320 kbps.
 The metadata includes information such as the title, artist, genre, and duration of each track.
-The subjective ratings of musical emotions include ratings for perceived valence, arousal, liking, feeling moved, familiarity, and professionalism, collected from 200+ participants.
+The subjective ratings of musical emotions include ratings for perceived valence, arousal, liking, feeling moved, familiarity, and professionalism, collected from 200+ [Prolific] participants.
 
 ## 📚 How to cite?
 
@@ -40,8 +40,8 @@ If you use the `ManyMusic-Stim` dataset in your research, please cite the follow
 
 ## 🙏 Acknowledgments
 
-This work was supported by the Max Planck Society and Johanna Quandt Young Academy at Goethe University Frankfurt. 
-Part of the data was presented at the [ICMPC] conference in São Paulo, Brazil on 25 July 2025.
+This work was supported by the Max Planck Society ([MPS]) and Johanna Quandt Young Academy ([JQYA]) at Goethe University Frankfurt. 
+Part of the data was presented at the International Conference on Music Perception and Cognition ([ICMPC]) in São Paulo, Brazil on 25 July 2025.
 We thank all participants for their contributions to this dataset.
 
 ## 👩‍⚖️ License
@@ -66,4 +66,7 @@ The `ManyMusic-Stim` dataset is licensed under ....
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate -->
 [Zenodo]: https://zenodo.org/record/1234567
 [paper]: paper-link
-[ICMPC]: https://www.icmpc.org/
+[ICMPC]: https://www.icmpc.org
+[JQYA]: https://www.jqya.de
+[MPS]: https://www.mpg.de/en
+[Prolific]: https://prolific.com
