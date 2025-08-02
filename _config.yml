@@ -1,11 +1,9 @@
-title: ManyMusic-stim
-description: Documentation for ManyMusic-stim
+title: ManyMusic-Stim
+description: Documentation for ManyMusic-Stim
 version: 0.1.0
-baseurl: "https://manymusic.net/stim/"
+baseurl: manymusic.net
 language: en
 theme: just-the-docs
-
 url: https://manymusic.net/stim/
-
 aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
