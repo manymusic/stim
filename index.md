@@ -6,6 +6,7 @@ layout: home
 # ManyMusic-Stim
 
 We[^1] presents the `ManyMusic-Stim` dataset, an open-access music audio dataset designed for human experiments on musical emotions.
+This is part of the [ManyMusic] project, which aims to deep-phenotype affective experience evoked by music.
 
 ## 🤔 Another music dataset—why?
 
@@ -73,3 +74,4 @@ The `ManyMusic-Stim` dataset is licensed under:
 [JQYA]: https://www.jqya.de
 [MPS]: https://www.mpg.de/en
 [Prolific]: https://prolific.com
+[ManyMusic]: https://manymusic.net
