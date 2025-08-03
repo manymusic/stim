@@ -52,8 +52,6 @@ The `ManyMusic-Stim` dataset is licensed under:
 - Suno audio files: XXX
 - Metadata and subjective ratings: [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This website itself is licensed under the [Just the Docs] license, which is a [GitHub Pages] theme for documentation.
-
 <!-- (CC BY-NC-SA 4.0 International License)[https://creativecommons.org/licenses/by-nc-sa/4.0/]. This means you are free to share and adapt the dataset for non-commercial purposes, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. -->
 
 ----

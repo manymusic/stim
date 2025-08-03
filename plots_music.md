@@ -4,3 +4,8 @@ layout: home
 ---
 # Music curation
 
+## Methods
+
+## Results
+
+## Plots
