@@ -22,9 +22,9 @@ See our [paper] for more details.
 The `ManyMusic-Stim` dataset is available for download from [Zenodo].
 The dataset includes: 
 
-- audio files in MP3 format, 
-- metadata in CSV format, and 
-- subjective ratings of musical emotions in CSV format.
+- audio files in `MP3` format, 
+- metadata in `CSV` format, and 
+- subjective ratings of musical emotions in `CSV` format.
 
 The audio files are encoded at 320 kbps.
 The metadata includes information such as the title, artist, genre, and duration of each track.
@@ -40,13 +40,19 @@ If you use the `ManyMusic-Stim` dataset in your research, please cite the follow
 
 ## 🙏 Acknowledgments
 
-This work was supported by the Max Planck Society ([MPS]) and Johanna Quandt Young Academy ([JQYA]) at Goethe University Frankfurt. 
+This work was supported by the Max Planck Society ([MPS]) and Johanna Quandt Young Academy ([JQYA]) at Goethe University Frankfurt.
 Part of the data was presented at the International Conference on Music Perception and Cognition ([ICMPC]) in São Paulo, Brazil on 25 July 2025.
 We thank all participants for their contributions to this dataset.
 
 ## 👩‍⚖️ License
 
-The `ManyMusic-Stim` dataset is licensed under ....
+The `ManyMusic-Stim` dataset is licensed under:
+
+- Jamendo audio files: XXX
+- Suno audio files: XXX
+- Metadata and subjective ratings: [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This website itself is licensed under the [Just the Docs] license, which is a [GitHub Pages] theme for documentation.
 
 <!-- (CC BY-NC-SA 4.0 International License)[https://creativecommons.org/licenses/by-nc-sa/4.0/]. This means you are free to share and adapt the dataset for non-commercial purposes, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. -->
 
@@ -57,10 +63,9 @@ The `ManyMusic-Stim` dataset is licensed under ....
 
 <!-- The dataset is part of the [ManyMusic project](https://www.aesthetics.mpg.de/en/research/projects/manymusic.html). -->
 
-<!--
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
+<!-- [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate -->

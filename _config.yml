@@ -6,7 +6,6 @@ language: en
 theme: just-the-docs
 url: https://manymusic.net/stim/
 aux_links:
-  Project-home: https://manymusic.net/
-  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  project-home: https://manymusic.net/
 ga_trakcing: "G-3FHGYPZ4N9"
 ga_tracking_anonymize_ip: true
