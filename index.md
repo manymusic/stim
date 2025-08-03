@@ -5,7 +5,7 @@ layout: home
 
 # ManyMusic-Stim
 
-We[^1] presents the `ManyMusic-Stim` dataset, an open-access music audio dataset designed for human experiments on musical emotions
+We[^1] presents the `ManyMusic-Stim` dataset, an open-access music audio dataset designed for human experiments on musical emotions.
 
 ## 🤔 Another music dataset—why?
 
