@@ -47,34 +47,13 @@ The modal percentiles of the Gold-MSI subscales were 79% for Musical Training an
 ## Results
 
 ### Distribution of ratings
-<!-- <figure>
-<img src="figs/groupN190_boxplots.png" alt="Distribution of ratings" style="min-width:400">
-<figurecaption><tiny>Ridgelineplots of each scale. White circles mark medians. White vertical bars mark 95%-confidence intervals of the mean.</tiny></figurecaption>
-</figure> -->
-![groupN190_boxplots](figs/groupN190_boxplots.png)<br><small>Ridgelineplots of each scale. White circles mark medians. White vertical bars mark 95%-confidence intervals of the mean.</small>
+![groupN190_boxplots](figs/groupN190_boxplots.png)<br><small>**Ridgelineplots.** White circles mark medians. White vertical bars mark 95%-confidence intervals of the mean.</small>
 
 ### Linear mixed-effects models
 `rating ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisExpMyGenre | subjectId) + (1 | trackId)`
 
 ### Association between scales
-<!-- <figure>
-<img src="figs/scatterplotmatrix.png" alt="Association between scales" style="min-width:400">
-<figurecaption>
-<tiny>
-Scatter plots and kernel density plots between rating scales.
-</tiny>
-</figurecaption> 
-</figure> -->
-![scatterplotmatrix](figs/scatterplotmatrix.png)<br><small>Scatter plots and kernel density plots between rating scales.</small>
+![scatterplotmatrix](figs/scatterplotmatrix.png)<br><small>**Scatter and kernel density plots.** Diagonal panels show histogram of each scale. Lower triangle panels show individual ratings. Upper triangle panels show kernel densities.</small>
 
 ### Cross-subject reliability of ratings
-
-<!-- <figure>
-<img src="figs/liking_mean-std.png" alt="rating-reliability" style="min-width:400">
-<figurecaption>
-<tiny>
-Mean-variance plots. Each dot represents a track with the averaged residual of liking over X-axis and the standard deviation over Y-axis. Tracks in the lower-right corners were consistently liked. Tracks in the lower-left corners were consistently disliked. Black circles mark tracks that are closest to either corner (i.e., (+1, 0) or (-1, 0)).
-</tiny>
-</figurecaption>
-</figure> -->
-![mean-variance](figs/liking_mean-std.png)<br><small>Mean-variance plots. Each dot represents a track with the averaged residual of liking over X-axis and the standard deviation over Y-axis. Tracks in the lower-right corners were consistently liked. Tracks in the lower-left corners were consistently disliked. Black circles mark tracks that are closest to either corner (i.e., (+1, 0) or (-1, 0)).</small>
+![mean-variance](figs/liking_mean-std.png)<br><small>**Mean-variance plots.** Each dot represents a track with the averaged residual of liking over X-axis and the standard deviation over Y-axis. Tracks in the lower-right corners were consistently liked. Tracks in the lower-left corners were consistently disliked. Black circles mark tracks that are closest to either corner (i.e., (+1, 0) or (-1, 0)).</small>
