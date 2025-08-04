@@ -50,7 +50,11 @@ The modal percentiles of the Gold-MSI subscales were 79% for Musical Training an
 ![groupN190_boxplots](figs/groupN190_boxplots.png)<br><small>**Ridgelineplots.** White circles mark medians. White vertical bars mark 95%-confidence intervals of the mean.</small>
 
 ### Linear mixed-effects models
-`rating ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisExpMyGenre | subjectId) + (1 | trackId)`
+A model was fitted to each scale using `fitlme` in MATLAB:
+
+`rating ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)`
+
+Each participant's musical preference was coded in `isThisMyGenre`, which is `1` if the track was rated as their favorite genre and `0` otherwise. Then this was used to fit a random slope for each subject.
 
 ### Association between scales
 ![scatterplotmatrix](figs/scatterplotmatrix.png)<br><small>**Scatter and kernel density plots.** Diagonal panels show histogram of each scale. Lower triangle panels show individual ratings. Upper triangle panels show kernel densities.</small>
