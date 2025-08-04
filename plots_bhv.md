@@ -56,14 +56,15 @@ The modal percentiles of the Gold-MSI subscales were 79% for Musical Training an
 `rating ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisExpMyGenre | subjectId) + (1 | trackId)`
 
 ### Association between scales
-<figure>
+<!-- <figure>
 <img src="figs/scatterplotmatrix.png" alt="Association between scales" style="min-width:400">
 <figurecaption>
 <tiny>
 Scatter plots and kernel density plots between rating scales.
 </tiny>
-</figcaption> 
-</figure>
+</figurecaption> 
+</figure> -->
+![scatterplotmatrix](figs/scatterplotmatrix.png)<br><tiny>Scatter plots and kernel density plots between rating scales.</tiny>
 
 ### Cross-subject reliability of ratings
 
