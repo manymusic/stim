@@ -45,7 +45,7 @@ A model was fitted to each scale using `fitlme` in MATLAB:
 Each participant's musical preference was coded in `isThisMyGenre`, which is `1` if the track was rated as their favorite genre and `0` otherwise. Then this was used to fit a random slope for each subject.
 
 ### Association between scales
-![scatterplotmatrix](figs/scatterplotmatrix.png)<br><small>**Scatter and kernel density plots.** Diagonal panels show histogram of each scale. Lower triangle panels show individual ratings. Upper triangle panels show kernel densities.</small>
+![scatterplotmatrix](figs/scatterplotmatrix.png)<br><small>**Scatter and kernel density plots.** Each dot represents a single rating of scales, given to a track by a participant. Diagonal panels show histogram of each scale. Lower triangle panels show individual ratings. Upper triangle panels show kernel densities.</small>
 
 ### Cross-subject reliability of ratings
 ![mean-variance](figs/liking_mean-std.png)<br><small>**Mean-variance plots.** Each dot represents a track with the averaged residual of liking over X-axis and the standard deviation over Y-axis. Tracks in the lower-right corners were consistently liked. Tracks in the lower-left corners were consistently disliked. Black circles mark tracks that are closest to either corner (i.e., (+1, 0) or (-1, 0)).</small>
