@@ -14,7 +14,7 @@ Psychological and neuroscientific research on music-evoked emotions has long bee
 
 ## 🔬 How was it validated?
 
-We conducted a series of experiments comparing the `ManyMusic-Stim` dataset to commercial music. Our results show that [carefully curated](/stim/plots_music.html) subsets of the dataset are comparable to well-matched commercial tracks across various subjective ratings, including liking and feeling moved. These [findings](/stim/plots_bhv.html) provide empirical support for the use of `ManyMusic-Stim` as a valid alternative to commercial music in affective research.
+We conducted a series of experiments comparing the `ManyMusic-Stim` dataset to commercial music. Our results show that [carefully curated](/stim/plots_music.html) subsets of the dataset are comparable to well-matched commercial tracks across various subjective ratings, including liking and feeling moved. [These findings](/stim/plots_bhv.html) provide empirical support for the use of `ManyMusic-Stim` as a valid alternative to commercial music in affective research.
 
 See our [paper] for more details.
 
@@ -51,9 +51,8 @@ The `ManyMusic-Stim` dataset is licensed under:
 
 - Jamendo audio files: XXX
 - Suno audio files: XXX
-- Metadata and subjective ratings: [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- Metadata and human ratings: [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-<!-- (CC BY-NC-SA 4.0 International License)[https://creativecommons.org/licenses/by-nc-sa/4.0/]. This means you are free to share and adapt the dataset for non-commercial purposes, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. -->
 
 ----
 
@@ -64,10 +63,6 @@ The `ManyMusic-Stim` dataset is licensed under:
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
-<!-- [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate -->
 [Zenodo]: https://zenodo.org/record/1234567
 [paper]: paper-link
 [ICMPC]: https://www.icmpc.org
