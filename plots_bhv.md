@@ -5,7 +5,7 @@ layout: home
 # Human validation
 
 ## Stimuli
-While stratifying genres and the presence of vocals, 100 tracks were selected from either of two proposed datasets:
+While stratifying genres and the presence of vocals, 100 tracks were selected from either of the two proposed datasets:
 - **Jamendo-A**: 2,559 tracks from the [MTG-Jamendo] dataset after k-means clustering sampling.
 - **Jamendo-B**: 1,119 tracks from the [MTG-Jamendo] dataset, which were unanimously rated as _"Emotionally Conveying"_ by three annotators (the authors and colleagues).
 
@@ -16,7 +16,14 @@ To compare the subjective ratings, we included 100 tracks from each of the follo
 ## Procedure
 An online experiment was conducted as follows.  
 Participants first selected three of their favorite tracks using the [Apple MusicKit API](https://developer.apple.com/musickit/).
-They then rated 30-second previews of the three self-selected tracks and 20 experimenter-selected tracks on six scales: `Professionalism`, `Familiarity`, `Perceived Valence`, `Perceived Arousal`, `Liking`, and `Being Moved`.
+They then rated 30-second previews of the three self-selected tracks and 20 experimenter-selected tracks on six scales after reading the following instructions: 
+- **Professionalism**: "How professional does this music sound? Consider in terms of audio quality, composition, performance, and production, and any criteria you may have."
+- **Familiarity**: "How familiar does this music sound? This is not whether you recognize this particular song, but whether it sounds similar to music you have heard before in terms of instrumentation, style, or other factors."
+- **Perceived Valence**: "How positive or negative feelings do you think this music expresses? Consider how much the music sounds happy, joyful, amusing, or positive, or how much it sounds sorrowful, agitating, or negative."
+- **Perceived Arousal**: "How exciting or relaxing does this music sound? Consider how much the music sounds energizing, exciting, or stimulating, or how much it sounds calming, relaxing, or soothing."
+- **Liking**: "How much do you like this music? Consider how much you enjoy listening to it, how much you would like to listen to it again, and any other factors that contribute to your enjoyment."
+- **Being Moved**: "How strongly are you moved or touched by this music? Think about whether it gives you chills or goosebumps, or if it just bores you or even disgusts you."
+
 On average, experimenter-selected tracks were rated by 10.4 participants.
 
 After the ratings, participants completed a series of questionnaires, including the Goldsmiths Musical Sophistication Index ([Gold-MSI](https://doi.org/10.1371/journal.pone.0089642)) and questions on preferred musical genres.  
