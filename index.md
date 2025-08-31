@@ -63,8 +63,8 @@ The `ManyMusic-Stim` dataset is licensed under:
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
-[Zenodo]: https://zenodo.org/record/1234567
-[paper]: paper-link
+[Zenodo]: https://zenodo.org/record/17010882
+[paper]: hcmir-paper-link
 [ICMPC]: https://www.icmpc.org
 [JQYA]: https://www.jqya.de
 [MPS]: https://www.mpg.de/en
