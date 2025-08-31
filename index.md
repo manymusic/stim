@@ -49,8 +49,8 @@ We thank all participants for their contributions to this dataset.
 
 The `ManyMusic-Stim` dataset is licensed under:
 
-- Jamendo audio files: XXX
-- Suno audio files: XXX
+- Jamendo audio files: various Creative Commons licenses (see [/stim/audio_licenses.txt](/stim/audio_licenses.txt)).
+- Suno audio files: [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - Metadata and human ratings: [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
