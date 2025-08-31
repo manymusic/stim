@@ -40,7 +40,15 @@ The modal percentiles of the Gold-MSI subscales were 79% for Musical Training an
 ### Linear mixed-effects models
 A model was fitted to each scale using `fitlme` in MATLAB:
 
-`rating ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)`
+```{MALTAB}
+mdl_p = fitlme(TblLme, 'professionalism ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)')
+mdl_f = fitlme(TblLme, 'familiarity     ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)')
+mdl_v = fitlme(TblLme, 'valence         ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)')
+mdl_a = fitlme(TblLme, 'arousal         ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)')
+mdl_l = fitlme(TblLme, 'liking          ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)')
+mdl_m = fitlme(TblLme, 'moved           ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)')
+```
+
 
 Each participant's musical preference was coded in `isThisMyGenre`, which is `1` if the track was rated as their favorite genre and `0` otherwise. Then this was used to fit a random slope for each subject.
 
