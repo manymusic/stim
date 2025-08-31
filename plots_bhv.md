@@ -48,9 +48,8 @@ mdl_a = fitlme(TblLme, 'arousal         ~ age + sex + gmsiEmotion + gmsiTraining
 mdl_l = fitlme(TblLme, 'liking          ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)')
 mdl_m = fitlme(TblLme, 'moved           ~ age + sex + gmsiEmotion + gmsiTraining + (1 + isThisMyGenre | subjectId) + (1 | trackId)')
 ```
-
-
 Each participant's musical preference was coded in `isThisMyGenre`, which is `1` if the track was rated as their favorite genre and `0` otherwise. Then this was used to fit a random slope for each subject.
+Download [this MATLAB data and script](stim/manymusic-stim-script.zip) to replicate the analysis.
 
 ### Association between scales
 ![scatterplotmatrix](figs/scatterplotmatrix.png)<br><small>**Scatter and kernel density plots.** Diagonal panels show histograms of each scale. Lower triangle panels show individual ratings—each dot represents an individual rating of multivariate scales, given to a track by a participant. Color-coding marks the type of music source. Upper triangle panels show kernel densities.</small>
