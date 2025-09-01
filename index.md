@@ -14,7 +14,7 @@ Psychological and neuroscientific research on music-evoked emotions has long bee
 
 ## 🔬 How was it validated?
 
-We conducted a series of experiments comparing the `ManyMusic-Stim` dataset to commercial music. Our results show that [carefully curated](/stim/plots_music.html) subsets of the dataset are comparable to well-matched commercial tracks across various subjective ratings, including liking and feeling moved. [These findings](/stim/plots_bhv.html) provide empirical support for the use of `ManyMusic-Stim` as a valid alternative to commercial music in affective research.
+We conducted a series of experiments comparing the `ManyMusic-Stim` dataset to commercial music. Our results show that [carefully curated](/stim/plots_music.html) subsets of the dataset are comparable to well-matched commercial tracks across various subjective ratings, including liking and feeling moved. [These findings](/stim/plots_bhv.html#results) provide empirical support for the use of `ManyMusic-Stim` as a valid alternative to commercial music in affective research.
 
 See our [paper] for more details.
 
