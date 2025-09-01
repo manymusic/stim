@@ -5,7 +5,7 @@ layout: home
 
 # ManyMusic-Stim
 
-We[^1] presents the `ManyMusic-Stim` dataset, an open-access music audio dataset designed for human experiments on musical emotions.
+We[^1] present the `ManyMusic-Stim` dataset, an open-access music audio dataset designed for human experiments on musical emotions.
 This is part of the [ManyMusic] project, which aims to deep-phenotype affective experience evoked by music.
 
 ## 🤔 Another music dataset—why?
@@ -42,7 +42,7 @@ If you use the `ManyMusic-Stim` dataset in your research, please cite the follow
 ## 🙏 Acknowledgments
 
 This work was supported by the Max Planck Society ([MPS]) and Johanna Quandt Young Academy ([JQYA]) at Goethe University Frankfurt.
-Part of the data was presented at the International Conference on Music Perception and Cognition ([ICMPC]) in São Paulo, Brazil on 25 July 2025.
+Part of the data was presented at the International Conference on Music Perception and Cognition ([ICMPC]) in São Paulo, Brazil, on 25 July 2025.
 We thank all participants for their contributions to this dataset.
 
 ## 👩‍⚖️ License
@@ -58,8 +58,6 @@ The `ManyMusic-Stim` dataset is licensed under:
 
 [^1]: The work is a collaboration between the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) and [Pompeu Fabra University](https://www.upf.edu/web/mtg). Main contributors are [Seung-Goo Kim](https://github.com/seunggookim/), [Pablo Alonso](https://github.com/palonso), and [Dmitry Bogdanov](https://github.com/dbogdanov). Please direct any questions or comments to [Seung-Goo Kim](mailto:seung-goo.kim@ae.mpg.de).
 
-
-<!-- The dataset is part of the [ManyMusic project](https://www.aesthetics.mpg.de/en/research/projects/manymusic.html). -->
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
