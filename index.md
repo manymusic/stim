@@ -35,9 +35,9 @@ The subjective ratings of musical emotions include ratings for perceived valence
 
 If you use the `ManyMusic-Stim` dataset in your research, please cite the following paper:
 
-[PAPER-INFO]
-[BIBTEX-INFO]
-[RIS-INFO]
+Kim, S.-G., Alonso-Jiménez, P., Bechtloff, T., Sammler, D., & Bogdanov, D. (2025, October 14). ManyMusic: An Open-access Music Audio Dataset for Human Experiments on Musical Emotions. 3rd Workshop on Human-Centric Music Information Research (HCMIR25) (HCMIR25), Daejeon, Republic of Korea. <https://doi.org/10.5281/zenodo.17346525>
+
+[[BIBTEX]](bibtex/17346525.bib)
 
 ## 🙏 Acknowledgments
 
@@ -62,7 +62,7 @@ The `ManyMusic-Stim` dataset is licensed under:
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [Zenodo]: https://zenodo.org/record/17010882
-[paper]: hcmir-paper-link
+[paper]: https://doi.org/10.5281/zenodo.17346525
 [ICMPC]: https://www.icmpc.org
 [JQYA]: https://www.jqya.de
 [MPS]: https://www.mpg.de/en
