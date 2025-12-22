@@ -6,6 +6,6 @@ The work is a collaboration between the [Max Planck Institute for Empirical Aest
 
 ## Related links:
 - Intro page: https://manymusic.net/stim/
-- Zenodo repo: https://zenodo.org/record/17010882
+- Zenodo data repo: https://zenodo.org/record/17010882
 - Python scripts for curation: https://github.com/manymusic/manymusic-mtg-jamendo-stim-scripts
-- Paper: [TBD]
+- Paper: https://zenodo.org/records/17346525
